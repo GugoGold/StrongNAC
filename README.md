@@ -163,7 +163,6 @@ então ele verá **MACs diferentes**, reduzindo drasticamente a similaridade.
 
 Este detector pode ser usado para:
 
-- Detectar **L2VPN escondida**
 - Identificar **repetidores WiFi não autorizados**
 - Encontrar **pontos de acesso ilegítimos**
 - Monitorar **anomalias de rede**
